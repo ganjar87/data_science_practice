@@ -1,0 +1,341 @@
+Node,Jlh interest ,Interest,Jlh interest (populer),Strategi Forwarding,Jlh Consumer,Payload size,Delay,Target
+Chicago,150,umum,150,Random,5,2048,0.40493,Sedang
+Chicago,300,umum,300,Random,5,2048,0.39442,Sedang
+Chicago,450,umum,450,Random,5,2048,0.41746,Sedang
+Chicago,600,umum,600,Random,5,2048,0.37815,Sedang
+Denver,150,umum,150,Random,5,2048,0.130130999,Sangat Bagus
+Denver,300,umum,300,Random,5,2048,0.141773683,Sangat Bagus
+Denver,450,umum,450,Random,5,2048,0.131225302,Sangat Bagus
+Denver,600,umum,600,Random,5,2048,0.130932446,Sangat Bagus
+Houston,150,umum,150,Random,5,2048,0.203180347,Bagus
+Houston,300,umum,300,Random,5,2048,0.222613612,Bagus
+Houston,450,umum,450,Random,5,2048,0.254191741,Bagus
+Houston,600,umum,600,Random,5,2048,0.258253905,Bagus
+Los Angles,150,umum,150,Random,5,2048,0.22349,Bagus
+Los Angles,300,umum,300,Random,5,2048,0.22708,Bagus
+Los Angles,450,umum,450,Random,5,2048,0.23337,Bagus
+Los Angles,600,umum,600,Random,5,2048,0.26815,Bagus
+Washington DC,150,umum,150,Random,5,2048,0.37098,Sedang
+Washington DC,300,umum,300,Random,5,2048,0.38779,Sedang
+Washington DC,450,umum,450,Random,5,2048,0.40849,Sedang
+Washington DC,600,umum,600,Random,5,2048,0.32642,Sedang
+Chicago,150,umum,150,Bestroute,5,2048,0.27233,Bagus
+Chicago,300,umum,300,Bestroute,5,2048,0.27233,Bagus
+Chicago,450,umum,450,Bestroute,5,2048,0.27233,Bagus
+Chicago,600,umum,600,Bestroute,5,2048,0.19118,Bagus
+Denver,150,umum,150,Bestroute,5,2048,0.10175,Sangat Bagus
+Denver,300,umum,300,Bestroute,5,2048,0.10175,Sangat Bagus
+Denver,450,umum,450,Bestroute,5,2048,0.10175,Sangat Bagus
+Denver,600,umum,600,Bestroute,5,2048,0.10175,Sangat Bagus
+Houston,150,umum,150,Bestroute,5,2048,0.22061,Bagus
+Houston,300,umum,300,Bestroute,5,2048,0.22061,Bagus
+Houston,450,umum,450,Bestroute,5,2048,0.22061,Bagus
+Houston,600,umum,600,Bestroute,5,2048,0.14497,Sangat Bagus
+Los Angles,150,umum,150,Bestroute,5,2048,0.20351,Bagus
+Los Angles,300,umum,300,Bestroute,5,2048,0.20351,Bagus
+Los Angles,450,umum,450,Bestroute,5,2048,0.20351,Bagus
+Los Angles,600,umum,600,Bestroute,5,2048,0.20351,Bagus
+Washington DC,150,umum,150,Bestroute,5,2048,0.03395,Sangat Bagus
+Washington DC,300,umum,300,Bestroute,5,2048,0.03395,Sangat Bagus
+Washington DC,450,umum,450,Bestroute,5,2048,0.03395,Sangat Bagus
+Washington DC,600,umum,600,Bestroute,5,2048,0.17758,Sangat Bagus
+Chicago,150,umum,150,Access,5,2048,0.27061445,Bagus
+Chicago,300,umum,300,Access,5,2048,0.274568933,Bagus
+Chicago,450,umum,450,Access,5,2048,0.308155501,Bagus
+Chicago,600,umum,600,Access,5,2048,0.29554341,Bagus
+Denver,150,umum,150,Access,5,2048,0.101752943,Sangat Bagus
+Denver,300,umum,300,Access,5,2048,0.101752972,Sangat Bagus
+Denver,450,umum,450,Access,5,2048,0.101777061,Sangat Bagus
+Denver,600,umum,600,Access,5,2048,0.1011244,Sangat Bagus
+Houston,150,umum,150,Access,5,2048,0.220662795,Bagus
+Houston,300,umum,300,Access,5,2048,0.221377623,Bagus
+Houston,450,umum,450,Access,5,2048,0.24181847,Bagus
+Houston,600,umum,600,Access,5,2048,0.345016566,Sedang
+Los Angles,150,umum,150,Access,5,2048,0.203505886,Bagus
+Los Angles,300,umum,300,Access,5,2048,0.203505943,Bagus
+Los Angles,450,umum,450,Access,5,2048,0.203326854,Bagus
+Los Angles,600,umum,600,Access,5,2048,0.203384378,Bagus
+Washington DC,150,umum,150,Access,5,2048,0.036138884,Sangat Bagus
+Washington DC,300,umum,300,Access,5,2048,0.084994542,Sangat Bagus
+Washington DC,450,umum,450,Access,5,2048,0.156718302,Bagus
+Washington DC,600,umum,600,Access,5,2048,0.268809296,Bagus
+Chicago,150,umum,150,Multicast,5,2048,0.272449609,Bagus
+Chicago,300,umum,300,Multicast,5,2048,0.243315898,Bagus
+Chicago,450,umum,450,Multicast,5,2048,0.235175493,Bagus
+Chicago,600,umum,600,Multicast,5,2048,0.296660627,Bagus
+Denver,150,umum,150,Multicast,5,2048,0.101752943,Sangat Bagus
+Denver,300,umum,300,Multicast,5,2048,0.101342483,Sangat Bagus
+Denver,450,umum,450,Multicast,5,2048,0.100877091,Sangat Bagus
+Denver,600,umum,600,Multicast,5,2048,0.100434484,Sangat Bagus
+Houston,150,umum,150,Multicast,5,2048,0.226984498,Bagus
+Houston,300,umum,300,Multicast,5,2048,0.478224298,Jelek
+Houston,450,umum,450,Multicast,5,2048,0.396552602,Sedang
+Houston,600,umum,600,Multicast,5,2048,0.396525272,Sedang
+Los Angles,150,umum,150,Multicast,5,2048,0.203505886,Bagus
+Los Angles,300,umum,300,Multicast,5,2048,0.202833564,Bagus
+Los Angles,450,umum,450,Multicast,5,2048,0.1992178,Bagus
+Los Angles,600,umum,600,Multicast,5,2048,0.200951253,Bagus
+Washington DC,150,umum,150,Multicast,5,2048,0.394486186,Sedang
+Washington DC,300,umum,300,Multicast,5,2048,0.43556796,Sedang
+Washington DC,450,umum,450,Multicast,5,2048,0.371276446,Sedang
+Washington DC,600,umum,600,Multicast,5,2048,0.40921078,Sedang
+Chicago,150,popular,150,Random,5,2048,0.003,Sangat Bagus
+Chicago,300,popular,300,Random,5,2048,0.001573068,Sangat Bagus
+Chicago,450,popular,450,Random,5,2048,0.00117817,Sangat Bagus
+Chicago,600,popular,600,Random,5,2048,0.000833857,Sangat Bagus
+Denver,150,popular,150,Random,5,2048,0.001,Sangat Bagus
+Denver,300,popular,300,Random,5,2048,0.000305359,Sangat Bagus
+Denver,450,popular,450,Random,5,2048,0.000241363,Sangat Bagus
+Denver,600,popular,600,Random,5,2048,0.000210779,Sangat Bagus
+Houston,150,popular,150,Random,5,2048,0.001,Sangat Bagus
+Houston,300,popular,300,Random,5,2048,0.000655378,Sangat Bagus
+Houston,450,popular,450,Random,5,2048,0.000490307,Sangat Bagus
+Houston,600,popular,600,Random,5,2048,0.00043896,Sangat Bagus
+Los Angles,150,popular,150,Random,5,2048,0.001,Sangat Bagus
+Los Angles,300,popular,300,Random,5,2048,0.000768752,Sangat Bagus
+Los Angles,450,popular,450,Random,5,2048,0.000513069,Sangat Bagus
+Los Angles,600,popular,600,Random,5,2048,0.000453207,Sangat Bagus
+Washington DC,150,popular,150,Random,5,2048,0.004,Sangat Bagus
+Washington DC,300,popular,300,Random,5,2048,0.001815047,Sangat Bagus
+Washington DC,450,popular,450,Random,5,2048,0.001233628,Sangat Bagus
+Washington DC,600,popular,600,Random,5,2048,0.000747874,Sangat Bagus
+Chicago,150,popular,150,Bestroute,5,2048,0.002322059,Sangat Bagus
+Chicago,300,popular,300,Bestroute,5,2048,0.001171398,Sangat Bagus
+Chicago,450,popular,450,Bestroute,5,2048,0.000821739,Sangat Bagus
+Chicago,600,popular,600,Bestroute,5,2048,0.000713633,Sangat Bagus
+Denver,150,popular,150,Bestroute,5,2048,0.000301532,Sangat Bagus
+Denver,300,popular,300,Bestroute,5,2048,0.00024522,Sangat Bagus
+Denver,450,popular,450,Bestroute,5,2048,0.000157355,Sangat Bagus
+Denver,600,popular,600,Bestroute,5,2048,0.000142414,Sangat Bagus
+Houston,150,popular,150,Bestroute,5,2048,0.001216039,Sangat Bagus
+Houston,300,popular,300,Bestroute,5,2048,0.000559389,Sangat Bagus
+Houston,450,popular,450,Bestroute,5,2048,0.000441112,Sangat Bagus
+Houston,600,popular,600,Bestroute,5,2048,0.00037367,Sangat Bagus
+Los Angles,150,popular,150,Bestroute,5,2048,0.00223495,Sangat Bagus
+Los Angles,300,popular,300,Bestroute,5,2048,0.001096879,Sangat Bagus
+Los Angles,450,popular,450,Bestroute,5,2048,0.000705574,Sangat Bagus
+Los Angles,600,popular,600,Bestroute,5,2048,0.000539835,Sangat Bagus
+Washington DC,150,popular,150,Bestroute,5,2048,0.00361907,Sangat Bagus
+Washington DC,300,popular,300,Bestroute,5,2048,0.001614907,Sangat Bagus
+Washington DC,450,popular,450,Bestroute,5,2048,0.001143377,Sangat Bagus
+Washington DC,600,popular,600,Bestroute,5,2048,0.000916993,Sangat Bagus
+Chicago,150,popular,150,Access,5,2048,0.002431085,Sangat Bagus
+Chicago,300,popular,300,Access,5,2048,0.001179652,Sangat Bagus
+Chicago,450,popular,450,Access,5,2048,0.000997978,Sangat Bagus
+Chicago,600,popular,600,Access,5,2048,0.000708429,Sangat Bagus
+Denver,150,popular,150,Access,5,2048,0.000279085,Sangat Bagus
+Denver,300,popular,300,Access,5,2048,0.000239568,Sangat Bagus
+Denver,450,popular,450,Access,5,2048,0.000173993,Sangat Bagus
+Denver,600,popular,600,Access,5,2048,0.000121676,Sangat Bagus
+Houston,150,popular,150,Access,5,2048,0.001158185,Sangat Bagus
+Houston,300,popular,300,Access,5,2048,0.000495404,Sangat Bagus
+Houston,450,popular,450,Access,5,2048,0.000442333,Sangat Bagus
+Houston,600,popular,600,Access,5,2048,0.000428433,Sangat Bagus
+Los Angles,150,popular,150,Access,5,2048,0.001739262,Sangat Bagus
+Los Angles,300,popular,300,Access,5,2048,0.000868141,Sangat Bagus
+Los Angles,450,popular,450,Access,5,2048,0.000589475,Sangat Bagus
+Los Angles,600,popular,600,Access,5,2048,0.000432973,Sangat Bagus
+Washington DC,150,popular,150,Access,5,2048,0.003497786,Sangat Bagus
+Washington DC,300,popular,300,Access,5,2048,0.001725362,Sangat Bagus
+Washington DC,450,popular,450,Access,5,2048,0.001158782,Sangat Bagus
+Washington DC,600,popular,600,Access,5,2048,0.000917483,Sangat Bagus
+Chicago,150,popular,150,Multicast,5,2048,0.002240609,Sangat Bagus
+Chicago,300,popular,300,Multicast,5,2048,0.001144108,Sangat Bagus
+Chicago,450,popular,450,Multicast,5,2048,0.000875994,Sangat Bagus
+Chicago,600,popular,600,Multicast,5,2048,0.000768679,Sangat Bagus
+Denver,150,popular,150,Multicast,5,2048,0.000245174,Sangat Bagus
+Denver,300,popular,300,Multicast,5,2048,0.000220827,Sangat Bagus
+Denver,450,popular,450,Multicast,5,2048,0.000140968,Sangat Bagus
+Denver,600,popular,600,Multicast,5,2048,0.000126564,Sangat Bagus
+Houston,150,popular,150,Multicast,5,2048,0.001042338,Sangat Bagus
+Houston,300,popular,300,Multicast,5,2048,0.000483522,Sangat Bagus
+Houston,450,popular,450,Multicast,5,2048,0.000480157,Sangat Bagus
+Houston,600,popular,600,Multicast,5,2048,0.000375444,Sangat Bagus
+Los Angles,150,popular,150,Multicast,5,2048,0.000958034,Sangat Bagus
+Los Angles,300,popular,300,Multicast,5,2048,0.00050378,Sangat Bagus
+Los Angles,450,popular,450,Multicast,5,2048,0.000339932,Sangat Bagus
+Los Angles,600,popular,600,Multicast,5,2048,0.000269234,Sangat Bagus
+Washington DC,150,popular,150,Multicast,5,2048,0.002818253,Sangat Bagus
+Washington DC,300,popular,300,Multicast,5,2048,0.001461535,Sangat Bagus
+Washington DC,450,popular,450,Multicast,5,2048,0.000986939,Sangat Bagus
+Washington DC,600,popular,600,Multicast,5,2048,0.000780871,Sangat Bagus
+Chicago,300,umum,150,Random,5,1024,0.341411772,Sedang
+Chicago,300,umum,300,Random,5,2048,0.397226675,Sedang
+Chicago,300,umum,450,Random,5,3072,0.433323346,Sedang
+Chicago,300,umum,600,Random,5,4096,0.392831139,Sedang
+Chicago,300,umum,150,Random,5,5070,0.347591045,Sedang
+Denver,300,umum,300,Random,5,1024,0.044748528,Sangat Bagus
+Denver,300,umum,450,Random,5,2048,0.141865811,Sangat Bagus
+Denver,300,umum,600,Random,5,3072,0.151754366,Bagus
+Denver,300,umum,150,Random,5,4096,0.153222642,Bagus
+Denver,300,umum,300,Random,5,5070,0.155055693,Bagus
+Houston,300,umum,450,Random,5,1024,0.24491292,Bagus
+Houston,300,umum,600,Random,5,2048,0.222624798,Bagus
+Houston,300,umum,150,Random,5,3072,0.263552283,Bagus
+Houston,300,umum,300,Random,5,4096,0.190922842,Bagus
+Houston,300,umum,450,Random,5,5070,0.245131624,Bagus
+Los Angles,300,umum,600,Random,5,1024,0.133792956,Sangat Bagus
+Los Angles,300,umum,150,Random,5,2048,0.22681332,Bagus
+Los Angles,300,umum,300,Random,5,3072,0.241029381,Bagus
+Los Angles,300,umum,450,Random,5,4096,0.28508868,Bagus
+Los Angles,300,umum,600,Random,5,5070,0.275416008,Bagus
+Washington DC,300,umum,150,Random,5,1024,0.403032913,Sedang
+Washington DC,300,umum,300,Random,5,2048,0.388964536,Sedang
+Washington DC,300,umum,450,Random,5,3072,0.439654019,Sedang
+Washington DC,300,umum,600,Random,5,4096,0.278720894,Bagus
+Washington DC,300,umum,150,Random,5,5070,0.280661588,Bagus
+Chicago,300,umum,300,Bestroute,5,1024,0.261238843,Bagus
+Chicago,300,umum,450,Bestroute,5,2048,0.272325829,Bagus
+Chicago,300,umum,600,Bestroute,5,3072,0.283224843,Bagus
+Chicago,300,umum,150,Bestroute,5,4096,0.263005573,Bagus
+Chicago,300,umum,300,Bestroute,5,5070,0.32203176,Sedang
+Denver,300,umum,450,Bestroute,5,1024,0.00242988,Sangat Bagus
+Denver,300,umum,600,Bestroute,5,2048,0.101752972,Sangat Bagus
+Denver,300,umum,150,Bestroute,5,3072,0.101277615,Sangat Bagus
+Denver,300,umum,300,Bestroute,5,4096,0.102078308,Sangat Bagus
+Denver,300,umum,450,Bestroute,5,5070,0.102658352,Sangat Bagus
+Houston,300,umum,600,Bestroute,5,1024,0.210377844,Bagus
+Houston,300,umum,150,Bestroute,5,2048,0.220610858,Bagus
+Houston,300,umum,300,Bestroute,5,3072,0.230671858,Bagus
+Houston,300,umum,450,Bestroute,5,4096,0.170824628,Bagus
+Houston,300,umum,600,Bestroute,5,5070,0.321236696,Sedang
+Los Angles,300,umum,150,Bestroute,5,1024,0.004860249,Sangat Bagus
+Los Angles,300,umum,300,Bestroute,5,2048,0.203505943,Bagus
+Los Angles,300,umum,450,Bestroute,5,3072,0.205181957,Bagus
+Los Angles,300,umum,600,Bestroute,5,4096,0.206823957,Bagus
+Los Angles,300,umum,150,Bestroute,5,5070,0.208303499,Bagus
+Washington DC,300,umum,300,Bestroute,5,1024,0.31985473,Sedang
+Washington DC,300,umum,450,Bestroute,5,2048,0.033946972,Sangat Bagus
+Washington DC,300,umum,600,Bestroute,5,3072,0.35875273,Sedang
+Washington DC,300,umum,150,Bestroute,5,4096,0.223613143,Bagus
+Washington DC,300,umum,300,Bestroute,5,5070,0.300273102,Sedang
+Chicago,300,umum,450,Access,5,1024,0.261238843,Bagus
+Chicago,300,umum,600,Access,5,2048,0.274568933,Bagus
+Chicago,300,umum,150,Access,5,3072,0.423490616,Sedang
+Chicago,300,umum,300,Access,5,4096,0.172884297,Bagus
+Chicago,300,umum,450,Access,5,5070,0.340883908,Sedang
+Denver,300,umum,600,Access,5,1024,0.00242988,Sangat Bagus
+Denver,300,umum,150,Access,5,2048,0.101752972,Sangat Bagus
+Denver,300,umum,300,Access,5,3072,0.101277822,Sangat Bagus
+Denver,300,umum,450,Access,5,4096,0.1018649,Sangat Bagus
+Denver,300,umum,600,Access,5,5070,0.102691111,Sangat Bagus
+Houston,300,umum,150,Access,5,1024,0.213385728,Bagus
+Houston,300,umum,300,Access,5,2048,0.221377623,Bagus
+Houston,300,umum,450,Access,5,3072,0.233816451,Bagus
+Houston,300,umum,600,Access,5,4096,0.419083735,Sedang
+Houston,300,umum,150,Access,5,5070,0.351314075,Sedang
+Los Angles,300,umum,300,Access,5,1024,0.004860249,Sangat Bagus
+Los Angles,300,umum,450,Access,5,2048,0.203505943,Bagus
+Los Angles,300,umum,600,Access,5,3072,0.205236362,Bagus
+Los Angles,300,umum,150,Access,5,4096,0.206276944,Bagus
+Los Angles,300,umum,300,Access,5,5070,0.208145251,Bagus
+Washington DC,300,umum,450,Access,5,1024,0.322862432,Sedang
+Washington DC,300,umum,600,Access,5,2048,0.084994542,Sangat Bagus
+Washington DC,300,umum,150,Access,5,3072,0.362629063,Sedang
+Washington DC,300,umum,300,Access,5,4096,0.193638071,Sangat Bagus
+Washington DC,300,umum,450,Access,5,5070,0.340142915,Sedang
+Chicago,300,umum,600,Multicast,5,1024,0.237729716,Bagus
+Chicago,300,umum,150,Multicast,5,2048,0.243315898,Bagus
+Chicago,300,umum,300,Multicast,5,3072,0.326311336,Sedang
+Chicago,300,umum,450,Multicast,5,4096,0.310555128,Sedang
+Chicago,300,umum,600,Multicast,5,5070,0.384311718,Sedang
+Denver,300,umum,150,Multicast,5,1024,0.00242988,Sangat Bagus
+Denver,300,umum,300,Multicast,5,2048,0.101342483,Sangat Bagus
+Denver,300,umum,450,Multicast,5,3072,0.100739932,Sangat Bagus
+Denver,300,umum,600,Multicast,5,4096,0.101532879,Sangat Bagus
+Denver,300,umum,150,Multicast,5,5070,0.102374912,Sangat Bagus
+Houston,300,umum,300,Multicast,5,1024,0.210805757,Bagus
+Houston,300,umum,450,Multicast,5,2048,0.478224298,Jelek
+Houston,300,umum,600,Multicast,5,3072,0.414059591,Sedang
+Houston,300,umum,150,Multicast,5,4096,0.447685793,Jelek
+Houston,300,umum,300,Multicast,5,5070,0.360276676,Sedang
+Los Angles,300,umum,450,Multicast,5,1024,0.004860249,Sangat Bagus
+Los Angles,300,umum,600,Multicast,5,2048,0.202833564,Bagus
+Los Angles,300,umum,150,Multicast,5,3072,0.203270078,Bagus
+Los Angles,300,umum,300,Multicast,5,4096,0.204684547,Bagus
+Los Angles,300,umum,450,Multicast,5,5070,0.207213089,Bagus
+Washington DC,300,umum,600,Multicast,5,1024,0.425620634,Sedang
+Washington DC,300,umum,150,Multicast,5,2048,0.43556796,Sedang
+Washington DC,300,umum,300,Multicast,5,3072,0.353610148,Sedang
+Washington DC,300,umum,450,Multicast,5,4096,0.361313556,Sedang
+Washington DC,300,umum,600,Multicast,5,5070,0.370493935,Sedang
+Atlanta,300,umum,150,Random,10,2048,0.254866918,Bagus
+Chicago,300,umum,300,Random,7,2048,0.3481967,Sedang
+Chicago,300,umum,450,Random,10,2048,0.324526774,Sedang
+Denver,300,umum,600,Random,3,2048,0.140819369,Sangat Bagus
+Denver,300,umum,150,Random,7,2048,0.137213842,Sangat Bagus
+Denver,300,umum,300,Random,10,2048,0.126931908,Sangat Bagus
+Houston,300,umum,450,Random,7,2048,0.209761542,Bagus
+Houston,300,umum,600,Random,10,2048,0.316191933,Sedang
+Indiana,300,umum,150,Random,10,2048,0.253289756,Bagus
+Kansas,300,umum,300,Random,7,2048,0.16839185,Bagus
+Kansas,300,umum,450,Random,10,2048,0.203157996,Bagus
+Los Angles,300,umum,600,Random,3,2048,0.294711908,Bagus
+Los Angles,300,umum,150,Random,7,2048,0.215710704,Bagus
+Los Angles,300,umum,300,Random,10,2048,0.21153248,Bagus
+New York,300,umum,450,Random,7,2048,0.371750179,Sedang
+New York,300,umum,600,Random,10,2048,0.356916838,Sedang
+Sunnyvale,300,umum,150,Random,10,2048,0.126517046,Sangat Bagus
+Washington DC,300,umum,300,Random,3,2048,0.554089983,Jelek
+Washington DC,300,umum,450,Random,7,2048,0.344395334,Sedang
+Washington DC,300,umum,600,Random,10,2048,0.34222028,Sedang
+Atlanta,300,umum,150,Bestroute,10,2048,0.287754744,Bagus
+Chicago,300,umum,300,Bestroute,7,2048,0.272325829,Bagus
+Chicago,300,umum,450,Bestroute,10,2048,0.272325829,Bagus
+Denver,300,umum,600,Bestroute,3,2048,0.101752972,Sangat Bagus
+Denver,300,umum,150,Bestroute,7,2048,0.101752972,Sangat Bagus
+Denver,300,umum,300,Bestroute,10,2048,0.101752972,Sangat Bagus
+Houston,300,umum,450,Bestroute,7,2048,0.220610858,Bagus
+Houston,300,umum,600,Bestroute,10,2048,0.220610858,Bagus
+Indiana,300,umum,150,Bestroute,10,2048,0.220610858,Bagus
+Kansas,300,umum,300,Bestroute,7,2048,0.153466972,Bagus
+Kansas,300,umum,450,Bestroute,10,2048,0.153466972,Bagus
+Los Angles,300,umum,600,Bestroute,3,2048,0.203505943,Bagus
+Los Angles,300,umum,150,Bestroute,7,2048,0.203485599,Bagus
+Los Angles,300,umum,300,Bestroute,10,2048,0.153466972,Bagus
+New York,300,umum,450,Bestroute,7,2048,0.036553616,Sangat Bagus
+New York,300,umum,600,Bestroute,10,2048,0.036553616,Sangat Bagus
+Sunnyvale,300,umum,150,Bestroute,10,2048,0.101752972,Sangat Bagus
+Washington DC,300,umum,300,Bestroute,3,2048,0.532635458,Jelek
+Washington DC,300,umum,450,Bestroute,7,2048,0.033946972,Sangat Bagus
+Washington DC,300,umum,600,Bestroute,10,2048,0.033946972,Sangat Bagus
+Atlanta,300,umum,150,Access,10,2048,0.279458837,Bagus
+Chicago,300,umum,300,Access,7,2048,0.281451501,Bagus
+Chicago,300,umum,450,Access,10,2048,0.272325829,Bagus
+Denver,300,umum,600,Access,3,2048,0.101752972,Sangat Bagus
+Denver,300,umum,150,Access,7,2048,0.101747888,Sangat Bagus
+Denver,300,umum,300,Access,10,2048,0.101752972,Sangat Bagus
+Houston,300,umum,450,Access,7,2048,0.220637977,Bagus
+Houston,300,umum,600,Access,10,2048,0.21442464,Bagus
+Indiana,300,umum,150,Access,10,2048,0.220610858,Bagus
+Kansas,300,umum,300,Access,7,2048,0.153467024,Bagus
+Kansas,300,umum,450,Access,10,2048,0.153466972,Bagus
+Los Angles,300,umum,600,Access,3,2048,0.203505943,Bagus
+Los Angles,300,umum,150,Access,7,2048,0.203505943,Bagus
+Los Angles,300,umum,300,Access,10,2048,0.153466972,Bagus
+New York,300,umum,450,Access,7,2048,0.269233043,Bagus
+New York,300,umum,600,Access,10,2048,0.323861848,Sedang
+Sunnyvale,300,umum,150,Access,10,2048,0.101752972,Sangat Bagus
+Washington DC,300,umum,300,Access,3,2048,0.441520466,Sedang
+Washington DC,300,umum,450,Access,7,2048,0.096168085,Sangat Bagus
+Washington DC,300,umum,600,Access,10,2048,0.277123622,Bagus
+Atlanta,300,umum,150,Multicast,10,2048,0.287754744,Bagus
+Chicago,300,umum,300,Multicast,7,2048,0.272325829,Bagus
+Chicago,300,umum,450,Multicast,10,2048,0.272325829,Bagus
+Denver,300,umum,600,Multicast,3,2048,0.101752972,Sangat Bagus
+Denver,300,umum,150,Multicast,7,2048,0.101752972,Sangat Bagus
+Denver,300,umum,300,Multicast,10,2048,0.101752972,Sangat Bagus
+Houston,300,umum,450,Multicast,7,2048,0.220610858,Bagus
+Houston,300,umum,600,Multicast,10,2048,0.220610858,Bagus
+Indiana,300,umum,150,Multicast,10,2048,0.220610858,Bagus
+Kansas,300,umum,300,Multicast,7,2048,0.153466972,Bagus
+Kansas,300,umum,450,Multicast,10,2048,0.153466972,Bagus
+Los Angles,300,umum,600,Multicast,3,2048,0.203505943,Bagus
+Los Angles,300,umum,150,Multicast,7,2048,0.203505943,Bagus
+Los Angles,300,umum,300,Multicast,10,2048,0.153466972,Bagus
+New York,300,umum,450,Multicast,7,2048,0.036553616,Sangat Bagus
+New York,300,umum,600,Multicast,10,2048,0.036553616,Sangat Bagus
+Sunnyvale,300,umum,150,Multicast,10,2048,0.101752972,Sangat Bagus
+Washington DC,300,umum,300,Multicast,3,2048,0.389425437,Sedang
+Washington DC,300,umum,450,Multicast,7,2048,0.033946972,Sangat Bagus
+Washington DC,300,umum,600,Multicast,10,2048,0.033946972,Sangat Bagus
